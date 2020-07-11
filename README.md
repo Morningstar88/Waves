@@ -8,8 +8,8 @@ https://github.com/Microflow/messengyr
 
 ## 2 Key Features
 
-Messages will wipe after 7 days. Saves us database space. Gives more privacy to the user.
-We'll work hard on the CSS and make some beautiful UI's, like Slack did for IRC. Codepenners welcome. Right now, we need more JS and CSS people than Elixir. The back-end code is simple but solid.
+1. Messages will wipe after 7 days. Saves us database space. Gives more privacy to the user.
+2. We'll work hard on the CSS and make some beautiful UI's, like Slack did for IRC. Codepenners welcome. Right now, we need more JS and CSS people than Elixir. The back-end code is simple but solid.
 List of issues + features here:
 
 https://github.com/Microflow/Waves/issues
