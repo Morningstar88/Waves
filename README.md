@@ -1,3 +1,7 @@
+## Waves
+
+Private messages that wipe after 7 days
+
 We forked Messengyr last night:
 
 https://github.com/Microflow/messengyr
