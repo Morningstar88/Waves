@@ -1,4 +1,4 @@
-## Waves
+# Waves
 
 Private messages that wipe after 7 days
 
